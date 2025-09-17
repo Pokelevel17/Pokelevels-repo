@@ -14,7 +14,7 @@
       "versionDescription": "Initial release of Ksign",
       "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/v1.4.1/Ksign.ipa",
       "localizedDescription": "Ksign is a simple, powerful tool to sign IPAs for personal use.",
-      "iconURL": "https://i.imgur.com/ksignIcon.png",
+      "iconURL": "https://github.com/Nyasami/Ksign/blob/v1.4.1/Ksign/Resources/Assets.xcassets/AppIcon.appiconset/Ksign-default.png?raw=true",
       "tintColor": "#6495ED",
       "size": 13400000
     },
