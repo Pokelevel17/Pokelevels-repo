@@ -3,17 +3,24 @@
   "identifier": "com.example.altstore",
   "sourceURL": "https://Pokelevel17.github.io/altstore-repo/apps.json",
   "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdfvYdCC0BPFY7WwOoQRDNx939y6BKw0NudA&s",
+  "news": [
+    {
+      "title": "Welcome to Pokelevels IPA Repo!",
+      "date": "2025-09-17",
+      "content": "This is the first news item. You can add updates here for your users."
+    }
+  ],
   "apps": [
     {
       "name": "Ipogo",
       "bundleIdentifier": "com.nianticlabs.pokemongo",
       "developerName": "Niantic, Inc.",
-      "subtitle": "",
+      "subtitle": "All-in-one tool for Pokémon GO",
       "version": "3.9.7",
       "versionDate": "2025-09-17",
-      "versionDescription": "",
+      "versionDescription": "Latest release with new features.",
       "downloadURL": "https://ipogo.app/download/ipogo-3.9.7.ipa",
-      "localizedDescription": "With iPogo you get a full set of tools to help you be the best. iPogo is a simple, powerful and intuitive app that allows you to teleport to raids, skip animations, auto catch and much more!",
+      "localizedDescription": "With iPogo you get a full set of tools to help you be the best. It allows teleporting, auto-catching, skipping animations, and more!",
       "iconURL": "https://static.wikia.nocookie.net/pokemongo/images/e/ec/AppIcon_Season_20_Tales_of_Transformation.png/revision/latest?cb=20250901125750",
       "tintColor": "#6495ED",
       "screenshots": [],
