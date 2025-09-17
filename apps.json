@@ -28,7 +28,7 @@
       "versionDescription": "Latest stable release of unc0ver jailbreak for iOS.",
       "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
       "localizedDescription": "unc0ver is a powerful jailbreak tool for iOS devices, allowing root access and tweaks. Supports iOS 11 to iOS 14.8.",
-      "iconURL": "https://i.imgur.com/unc0verIcon.png",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShkxq3r9D9IvsCJXK8dIxjOXYrRhN3b5nZWw&s",
       "tintColor": "#FF6347",
       "size": 52730000
     },
@@ -56,7 +56,7 @@
       "versionDescription": "Latest release of Delta emulator for iOS devices.",
       "downloadURL": "https://github.com/rileytestut/Delta/releases/download/v1.6/Delta_1_6.ipa",
       "localizedDescription": "Delta is a multi-platform emulator for iOS that lets you play Game Boy, Game Boy Advance, Nintendo DS, and Nintendo 64 games on your device.",
-      "iconURL": "https://i.imgur.com/app2Icon.png",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.rileytestut.Delta.Beta.png",
       "tintColor": "#32CD32",
       "size": 47000000
     },
