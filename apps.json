@@ -39,7 +39,7 @@
       "versionDate": "2025-09-17",
       "versionDescription": "Latest release with performance improvements and bug fixes.",
       "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.4/UTM.ipa",
-      "iconURL": "https://i.imgur.com/app1Icon.png",
+      "iconURL": "https://avatars.githubusercontent.com/u/49966544?s=48&v=4",
       "tintColor": "#1a2cc2",
       "size": 130036731
     },
@@ -65,7 +65,7 @@
       "versionDate": "2025-09-17",
       "versionDescription": "Initial release of Flycast for iOS devices.",
       "downloadURL": "https://archive.org/download/flycast-2.5_20250607_2043/Flycast-2.5.ipa",
-      "iconURL": "https://i.imgur.com/app3Icon.png",
+      "iconURL": "https://raw.githubusercontent.com/flyinghead/flycast/master/shell/linux/flycast.png",
       "tintColor": "#FFA500",
       "size": 50200000
     },
@@ -78,7 +78,7 @@
       "versionDate": "2025-09-17",
       "versionDescription": "Latest stable release of Dolphin Emulator for iOS devices.",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
-      "iconURL": "https://i.imgur.com/app4Icon.png",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1uzvuRLJONXjZQ-ufy8lmlKO2GZqr52A63g&s",
       "tintColor": "#8A2BE2",
       "size": 75500000
     },
@@ -91,7 +91,7 @@
       "versionDate": "2025-09-17",
       "versionDescription": "Latest stable release of PojavLauncher for iOS devices.",
       "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
-      "iconURL": "https://i.imgur.com/app5Icon.png",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFCv3jIkvIKoURk4audJBbZJYTnbTmlsJzVg&s",
       "tintColor": "#FF1493",
       "size": 60500000
     },
@@ -104,7 +104,7 @@
       "versionDate": "2025-09-17",
       "versionDescription": "Latest stable release of UTM SE for iOS devices.",
       "downloadURL": "https://github.com/utmapp/UTM/releases/latest/download/UTM-SE.ipa",
-      "iconURL": "https://i.imgur.com/app6Icon.png",
+      "iconURL": "https://avatars.githubusercontent.com/u/49966544?s=48&v=4",
       "tintColor": "#00CED1",
       "size": 84200000
     },
@@ -117,7 +117,7 @@
       "versionDate": "2025-09-17",
       "versionDescription": "Latest stable release of Provenance emulator for iOS devices.",
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/3.1.0/Provenance.ipa",
-      "iconURL": "https://i.imgur.com/app7Icon.png",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTpuszJKoMiZqvaRqMuwjVFlr-xuPPOrd9JQ&s",
       "tintColor": "#FFD700",
       "size": 47200000
     },
@@ -130,7 +130,7 @@
       "versionDate": "2025-09-17",
       "versionDescription": "Latest stable release of PokeMMO for iOS devices.",
       "downloadURL": "https://pokemmo.com/download_file/10/",
-      "iconURL": "https://i.imgur.com/app8Icon.png",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2n-mUOqkvYSCTDXKWcAi1TBXBbMPlCldi8g&s",
       "tintColor": "#FF4500",
       "size": 60200000
     },
@@ -143,7 +143,7 @@
       "versionDate": "2025-09-17",
       "versionDescription": "Major update to revive the project with refactored codebase and restored APIs.",
       "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_1/OldOS.ipa",
-      "iconURL": "https://i.imgur.com/app9Icon.png",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkpSAVwRr83gYwhGqSK9wRKCpiyqc4-XbKqg&s",
       "tintColor": "#4B0082",
       "size": 15800000
     },
@@ -156,7 +156,7 @@
       "versionDate": "2025-09-17",
       "versionDescription": "Major update with new cores, improved iOS support, and enhanced features.",
       "downloadURL": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
-      "iconURL": "https://i.imgur.com/app10Icon.png",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gP06dHcMuUi8T6imFmdB6ob4If5fMkD2ag&s",
       "tintColor": "#7FFF00",
       "size": 187100000
     }
