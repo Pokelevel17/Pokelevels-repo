@@ -17,9 +17,25 @@
       "iconURL": "https://static.wikia.nocookie.net/pokemongo/images/e/ec/AppIcon_Season_20_Tales_of_Transformation.png/revision/latest?cb=20250901125750",
       "tintColor": "#6495ED",
       "screenshots": [
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRSHbsA6ofztImX97mFYOscUvC5JFHV2TF3w&s"
+        ""
       ],
-      "size": 123456789
+      "size": 147.8
+          {
+      "name": "Ksign",
+      "bundleIdentifier": "com.ksign.ios",
+      "developerName": "Nagata Asami",
+      "subtitle": "iOS IPA signing tool",
+      "version": "1.4.1",
+      "versionDate": "2025-09-17",
+      "versionDescription": "Initial release of Ksign",
+      "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/v1.4.1/Ksign.ipa",
+      "localizedDescription": "Ksign is a simple, powerful tool to sign IPAs for personal use.",
+      "iconURL": "https://private-user-images.githubusercontent.com/80683081/479772492-35307033-77bf-49d8-b9f1-0c1b04a6046d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgxNDA3NzgsIm5iZiI6MTc1ODE0MDQ3OCwicGF0aCI6Ii84MDY4MzA4MS80Nzk3NzI0OTItMzUzMDcwMzMtNzdiZi00OWQ4LWI5ZjEtMGMxYjA0YTYwNDZkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTE3VDIwMjExOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcyYzQ3OWVlMmU0M2Q3YjdlMDgwNzFhNmMzY2I3ZjMyYzdhMGI2YjAxNWNhNmI4ZWMxZGE2OGRiNzljNDY2YzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bhTv5m69tzjz6znwFmLqCrDt0bd38qty4bEG2jzE170",
+      "tintColor": "#6495ED",
+      "screenshots": [
+        ""
+      ],
+      "size": 13.4
     }
   ]
 }
