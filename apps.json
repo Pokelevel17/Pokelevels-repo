@@ -15,7 +15,7 @@
       "downloadURL": "https://ipogo.app/download/ipogo-3.9.7.ipa",
       "localizedDescription": "With iPogo you get a full set of tools to help you be the best. iPogo is a simple, powerful and intuitive app that allows you to teleport to raids, skip animations, auto catch and much more!",
       "iconURL": "https://static.wikia.nocookie.net/pokemongo/images/e/ec/AppIcon_Season_20_Tales_of_Transformation.png/revision/latest?cb=20250901125750",
-      "tintColor": "",
+      "tintColor": "#6495ED",
       "screenshots": [
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRSHbsA6ofztImX97mFYOscUvC5JFHV2TF3w&s"
       ],
