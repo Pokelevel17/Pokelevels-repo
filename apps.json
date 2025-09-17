@@ -148,7 +148,7 @@
       "bundleIdentifier": "com.zzanehip.oldos",
       "developerName": "zzanehip",
       "subtitle": "Classic iOS Interface Emulator",
-      "version": "2.0_1",
+      "version": "2.0.1",
       "versionDate": "2025-09-17",
       "versionDescription": "Major update to revive the project with refactored codebase and restored APIs.",
       "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_1/OldOS.ipa",
