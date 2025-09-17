@@ -1,0 +1,25 @@
+{
+  "name": "Silly IPA Repo",
+  "identifier": "com.example.altstore",
+  "sourceURL": "https://Pokelevel17.github.io/altstore-repo/apps.json",
+  "apps": [
+    {
+      "name": "Pokémon GO",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "developerName": "Niantic, Inc.",
+      "subtitle": "Augmented reality mobile game",
+      "version": "1.0.0",
+      "versionDate": "2025-09-17",
+      "versionDescription": "Example entry for AltStore repo testing",
+      "downloadURL": "https://yourdomain.com/PokemonGO.ipa",
+      "localizedDescription": "This is an example of a repo entry for AltStore.",
+      "iconURL": "https://yourdomain.com/pokemongo-icon.png",
+      "tintColor": "FFCB05",
+      "screenshots": [
+        "https://yourdomain.com/ss1.png",
+        "https://yourdomain.com/ss2.png"
+      ],
+      "size": 123456789
+    }
+  ]
+}
