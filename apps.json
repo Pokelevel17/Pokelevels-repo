@@ -16,7 +16,6 @@
       "localizedDescription": "Ksign is a simple, powerful tool to sign IPAs for personal use.",
       "iconURL": "https://i.imgur.com/ksignIcon.png",
       "tintColor": "#6495ED",
-      "screenshots": [],
       "size": 13400000
     },
     {
@@ -31,11 +30,6 @@
       "localizedDescription": "unc0ver is a powerful jailbreak tool for iOS devices, allowing root access and tweaks. Supports iOS 11 to iOS 14.8.",
       "iconURL": "https://i.imgur.com/unc0verIcon.png",
       "tintColor": "#FF6347",
-       "screenshots": [
-    "https://onejailbreak.com/wp-content/uploads/2022/09/unc0ver-jailbreak-iphone-14-pro-max.jpg",
-    "https://onejailbreak.com/wp-content/uploads/2022/09/unc0ver-jailbreak-settings.jpg",
-    "https://thetechpapa.com/wp-content/uploads/2020/05/unc0ver-jailbreak-ios-12-4-8.jpg",
-    "https://ijunkie.com/wp-content/uploads/2020/05/unc0ver-jailbreak-ios-14.jpg"
       "size": 52730000
     },
     {
@@ -50,15 +44,6 @@
       "localizedDescription": "UTM is a full-featured virtual machine host for iOS, allowing you to run Windows, Linux, and more on your iPhone and iPad. This version requires using AltJIT. Install UTM SE for slower emulation without JIT.",
       "iconURL": "https://i.imgur.com/app1Icon.png",
       "tintColor": "#1a2cc2",
-        "screenshots": [
-    "https://alt.getutm.app/screen0.png",
-    "https://alt.getutm.app/screen1.png",
-    "https://alt.getutm.app/screen2.png",
-    "https://alt.getutm.app/screen3.png",
-    "https://alt.getutm.app/screen4.png",
-    "https://alt.getutm.app/screen5.png",
-    "https://alt.getutm.app/screen6.png"
-  ],
       "size": 130036731
     },
     {
@@ -73,7 +58,6 @@
       "localizedDescription": "Description for ExampleApp2",
       "iconURL": "https://i.imgur.com/app2Icon.png",
       "tintColor": "#32CD32",
-      "screenshots": [],
       "size": 12345678
     },
     {
@@ -88,7 +72,6 @@
       "localizedDescription": "Description for ExampleApp3",
       "iconURL": "https://i.imgur.com/app3Icon.png",
       "tintColor": "#FFA500",
-      "screenshots": [],
       "size": 12345678
     },
     {
@@ -103,7 +86,6 @@
       "localizedDescription": "Description for ExampleApp4",
       "iconURL": "https://i.imgur.com/app4Icon.png",
       "tintColor": "#8A2BE2",
-      "screenshots": [],
       "size": 12345678
     },
     {
@@ -118,7 +100,6 @@
       "localizedDescription": "Description for ExampleApp5",
       "iconURL": "https://i.imgur.com/app5Icon.png",
       "tintColor": "#FF1493",
-      "screenshots": [],
       "size": 12345678
     },
     {
@@ -133,7 +114,6 @@
       "localizedDescription": "Description for ExampleApp6",
       "iconURL": "https://i.imgur.com/app6Icon.png",
       "tintColor": "#00CED1",
-      "screenshots": [],
       "size": 12345678
     },
     {
@@ -148,7 +128,6 @@
       "localizedDescription": "Description for ExampleApp7",
       "iconURL": "https://i.imgur.com/app7Icon.png",
       "tintColor": "#FFD700",
-      "screenshots": [],
       "size": 12345678
     },
     {
@@ -163,7 +142,6 @@
       "localizedDescription": "Description for ExampleApp8",
       "iconURL": "https://i.imgur.com/app8Icon.png",
       "tintColor": "#FF4500",
-      "screenshots": [],
       "size": 12345678
     },
     {
@@ -178,7 +156,6 @@
       "localizedDescription": "Description for ExampleApp9",
       "iconURL": "https://i.imgur.com/app9Icon.png",
       "tintColor": "#4B0082",
-      "screenshots": [],
       "size": 12345678
     },
     {
@@ -193,7 +170,6 @@
       "localizedDescription": "Description for ExampleApp10",
       "iconURL": "https://i.imgur.com/app10Icon.png",
       "tintColor": "#7FFF00",
-      "screenshots": [],
       "size": 12345678
     }
   ]
