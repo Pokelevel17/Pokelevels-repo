@@ -6,7 +6,7 @@
   "apps": [
     {
       "name": "Ksign",
-      "bundleIdentifier": "com.ksign.ios",
+      "bundleIdentifier": "nya.asami.ksign",
       "developerName": "Nyasami",
       "subtitle": "iOS IPA signing tool",
       "version": "1.4.1",
@@ -15,11 +15,11 @@
       "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/v1.4.1/Ksign.ipa",
       "iconURL": "https://github.com/Nyasami/Ksign/blob/v1.4.1/Ksign/Resources/Assets.xcassets/AppIcon.appiconset/Ksign-default.png?raw=true",
       "tintColor": "#6495ED",
-      "size": 13400000
+      "size": 14.7
     },
     {
       "name": "Unc0ver",
-      "bundleIdentifier": "org.pwn20wnd.unc0ver",
+      "bundleIdentifier": "science.xnu.undecimus",
       "developerName": "Pwn20wnd",
       "subtitle": "iOS Jailbreak Tool",
       "version": "8.0.2",
@@ -28,7 +28,7 @@
       "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShkxq3r9D9IvsCJXK8dIxjOXYrRhN3b5nZWw&s",
       "tintColor": "#FF6347",
-      "size": 52730000
+      "size": 54.5
     },
     {
       "name": "UTM",
@@ -67,7 +67,7 @@
       "downloadURL": "https://archive.org/download/flycast-2.5_20250607_2043/Flycast-2.5.ipa",
       "iconURL": "https://raw.githubusercontent.com/flyinghead/flycast/master/shell/linux/flycast.png",
       "tintColor": "#FFA500",
-      "size": 50200000
+      "size": 8.2
     },
     {
       "name": "Dolphin",
@@ -80,7 +80,7 @@
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1uzvuRLJONXjZQ-ufy8lmlKO2GZqr52A63g&s",
       "tintColor": "#8A2BE2",
-      "size": 75500000
+      "size": 80.3
     },
     {
       "name": "PojavLauncher",
@@ -93,7 +93,7 @@
       "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFCv3jIkvIKoURk4audJBbZJYTnbTmlsJzVg&s",
       "tintColor": "#FF1493",
-      "size": 60500000
+      "size": 108.2
     },
     {
       "name": "UTM SE",
@@ -106,7 +106,7 @@
       "downloadURL": "https://github.com/utmapp/UTM/releases/latest/download/UTM-SE.ipa",
       "iconURL": "https://avatars.githubusercontent.com/u/49966544?s=48&v=4",
       "tintColor": "#00CED1",
-      "size": 84200000
+      "size": 213.9
     },
     {
       "name": "Provenance",
