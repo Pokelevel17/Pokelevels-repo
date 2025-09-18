@@ -163,7 +163,7 @@
       "bundleIdentifier": "com.libretro.RetroArchiOS11",
       "developerName": "Libretro Team",
       "subtitle": "Universal Emulator Frontend",
-      "version": "1.21.0",
+      "version": "1.20250918.0009",
       "versionDate": "2025-09-17",
       "versionDescription": "Major update with new cores, improved iOS support, and enhanced features.",
       "downloadURL": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
