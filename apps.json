@@ -171,6 +171,62 @@
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gP06dHcMuUi8T6imFmdB6ob4If5fMkD2ag&s",
       "tintColor": "#a7a9ab",
       "size": 187100000
+    },
+    {
+      "name": "Nulls Brawl",
+      "bundleIdentifier": "nt.nb.ios",
+      "developerName": "Nulls Team",
+      "subtitle": "Private Brawl Stars Server for iOS",
+      "version": "63.265",
+      "versionDate": "2025-09-17",
+      "versionDescription": "Initial release of Nulls Brawl IPA for iOS.",
+      "downloadURL": "https://dnull.xyz/latest_bs_i",
+      "localizedDescription": "Nulls Brawl is a private server version of Brawl Stars, offering unlimited resources and new custom features not found in the official game.",
+      "iconURL": "https://www.nullsbrawl.dev/wp-content/uploads/2024/10/logo.png",
+      "tintColor": "#A020F0",
+      "size": 120000000
+    },
+    {
+      "name": "Nulls Clash",
+      "bundleIdentifier": "nt.nc.ios",
+      "developerName": "Nulls Team",
+      "subtitle": "Private Clash of Clans Server for iOS",
+      "version": "17.360.13",
+      "versionDate": "2025-09-17",
+      "versionDescription": "Initial release of Nulls Clash IPA for iOS.",
+      "downloadURL": "https://dnull.xyz/latest_coc_i",
+      "localizedDescription": "Nulls Clash is a private server version of Clash of Clans, offering unlimited resources and custom gameplay features not available in the official game.",
+      "iconURL": "https://imag.malavida.com/mvimgbig/download-fs/nulls-clash-23270-0.jpg",
+      "tintColor": "#A020F0",
+      "size": 150000000
+    },
+    {
+      "name": "Nulls Royale",
+      "bundleIdentifier": "nt.nr.ios",
+      "developerName": "Nulls Team",
+      "subtitle": "Private Clash Royale Server for iOS",
+      "version": "11.548.0",
+      "versionDate": "2025-09-17",
+      "versionDescription": "Initial release of Nulls Royale IPA for iOS.",
+      "downloadURL": "https://dnull.xyz/latest_cr_i",
+      "localizedDescription": "Nulls Royale is a private server version of Clash Royale, featuring unlimited gems, custom cards, and enhanced gameplay features not found in the official game.",
+      "iconURL": "https://imgcdn.latestmodapks.com/api/resize?url=https://www.latestmodapks.com/wp-content/uploads/2022/05/nr-icon.png&width=160",
+      "tintColor": "#A020F0",
+      "size": 120000000
+    },
+    {
+      "name": "EZFN Season 7",
+      "bundleIdentifier": "40ccc2b10c984097",
+      "developerName": "EZFN Team",
+      "subtitle": "Relive Classic Fortnite",
+      "version": "7.40.2",
+      "versionDate": "2025-09-17",
+      "versionDescription": "Experience Fortnite as it was in its prime with EZFN OG.",
+      "downloadURL": "https://cdn-test.ezfn.dev/IPAs/Fortnite+Release-7.40-CL-5011364-V2.ipa",
+      "localizedDescription": "EZFN OG allows you to play the original Fortnite experience on various platforms, including Windows, iOS, Android, and Nintendo Switch.",
+      "iconURL": "https://media.pocketgamer.com/artwork/na-plaq/fortnite_icon.jpg",
+      "tintColor": "#A020F0",
+      "size": 102400
     }
   ]
 }
