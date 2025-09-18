@@ -48,7 +48,7 @@
     },
     {
       "name": "Delta",
-      "bundleIdentifier": "com.rileytestut.delta",
+      "bundleIdentifier": "com.rileytestut.Delta",
       "developerName": "Riley Testut",
       "subtitle": "Nintendo Emulator for iOS",
       "version": "1.6.0",
@@ -62,7 +62,7 @@
     },
     {
       "name": "Flycast",
-      "bundleIdentifier": "org.reicast.flycast",
+      "bundleIdentifier": "com.flyinghead.Flycast",
       "developerName": "Reicast Team",
       "subtitle": "Dreamcast Emulator for iOS",
       "version": "2.5.0",
@@ -76,7 +76,7 @@
     },
     {
       "name": "Dolphin",
-      "bundleIdentifier": "org.dolphinemu.dolphin",
+      "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "developerName": "Dolphin Emulator Team",
       "subtitle": "GameCube & Wii Emulator for iOS",
       "version": "4.0.0b8",
@@ -104,7 +104,7 @@
     },
     {
       "name": "UTM SE",
-      "bundleIdentifier": "com.utm.se",
+      "bundleIdentifier": "com.utmapp.UTM-SE",
       "developerName": "UTM Team",
       "subtitle": "Virtual Machine Emulator for iOS",
       "version": "4.7.4",
@@ -118,7 +118,7 @@
     },
     {
       "name": "Provenance",
-      "bundleIdentifier": "org.provenance.emu",
+      "bundleIdentifier": "org.provenance-emu.provenance",
       "developerName": "Provenance Team",
       "subtitle": "Multi-console Emulator for iOS",
       "version": "3.1.0",
@@ -132,7 +132,7 @@
     },
     {
       "name": "PokeMMO",
-      "bundleIdentifier": "com.pokemmo.ios",
+      "bundleIdentifier": "eu.pokemmo.client",
       "developerName": "PokeMMO Team",
       "subtitle": "Massively Multiplayer Pokémon for iOS",
       "version": "5.0.0",
@@ -146,7 +146,7 @@
     },
     {
       "name": "OldOS",
-      "bundleIdentifier": "com.zzanehip.oldos",
+      "bundleIdentifier": "com.zurac.OldOSSL2",
       "developerName": "zzanehip",
       "subtitle": "Classic iOS Interface Emulator",
       "version": "2.0.1",
@@ -160,7 +160,7 @@
     },
     {
       "name": "RetroArch",
-      "bundleIdentifier": "org.libretro.RetroArch",
+      "bundleIdentifier": "com.libretro.RetroArchiOS11",
       "developerName": "Libretro Team",
       "subtitle": "Universal Emulator Frontend",
       "version": "1.21.0",
