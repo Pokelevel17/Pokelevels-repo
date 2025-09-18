@@ -29,7 +29,7 @@
       "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
       "localizedDescription": "unc0ver is a powerful jailbreak tool for iOS devices, allowing root access and tweaks. Supports iOS 11 to iOS 14.8.",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShkxq3r9D9IvsCJXK8dIxjOXYrRhN3b5nZWw&s",
-      "tintColor": "#dcdfe0",
+      "tintColor": "#515254",
       "size": 54500000
     },
     {
@@ -42,7 +42,7 @@
       "versionDescription": "Latest release with performance improvements and bug fixes.",
       "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.4/UTM.ipa",
       "localizedDescription": "UTM is a full-featured virtual machine host for iOS, allowing you to run Windows, Linux, and more on your iPhone and iPad. This version requires using AltJIT. Install UTM SE for slower emulation without JIT.",
-      "iconURL": "https://avatars.githubusercontent.com/u/49966544?s=48&v=4",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbtFsTLS2FeCxBudG-lWsft0EYEiG--72HqQ&s",
       "tintColor": "#1a2cc2",
       "size": 130036731
     },
@@ -112,7 +112,7 @@
       "versionDescription": "Latest stable release of UTM SE for iOS devices.",
       "downloadURL": "https://github.com/utmapp/UTM/releases/latest/download/UTM-SE.ipa",
       "localizedDescription": "UTM SE allows you to run virtual machines on iOS, supporting multiple OSes with full emulation and QEMU-based virtualization.",
-      "iconURL": "https://avatars.githubusercontent.com/u/49966544?s=48&v=4",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbtFsTLS2FeCxBudG-lWsft0EYEiG--72HqQ&s",
       "tintColor": "#1a2cc2",
       "size": 213900000
     },
