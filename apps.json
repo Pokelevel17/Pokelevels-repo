@@ -19,18 +19,18 @@
       "size": 14700000
     },
     {
-      "name": "Unc0ver",
-      "bundleIdentifier": "science.xnu.undecimus",
-      "developerName": "Pwn20wnd",
-      "subtitle": "iOS Jailbreak Tool",
-      "version": "8.0.2",
+      "name": "LiveContainer",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "HugeBlack",
+      "subtitle": "Run iOS Apps Without Installing",
+      "version": "3.6.1",
       "versionDate": "2025-09-17",
-      "versionDescription": "Latest stable release of unc0ver jailbreak for iOS.",
-      "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
-      "localizedDescription": "unc0ver is a powerful jailbreak tool for iOS devices, allowing root access and tweaks. Supports iOS 11 to iOS 14.8.",
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShkxq3r9D9IvsCJXK8dIxjOXYrRhN3b5nZWw&s",
-      "tintColor": "#515254",
-      "size": 54500000
+      "versionDescription": "Minor release fixing symbol offset cache issues and improving window controls.",
+      "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.6.1/LiveContainer.ipa",
+      "localizedDescription": "LiveContainer is an app launcher that allows you to run iOS apps without actually installing them. It supports unlimited apps, multiple versions, and JIT-less mode for non-jailbroken devices.",
+      "iconURL": "https://avatars.githubusercontent.com/u/206676373?s=200&v=4",
+      "tintColor": "#4c63af",
+      "size": 50000000
     },
     {
       "name": "UTM",
