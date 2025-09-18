@@ -16,7 +16,7 @@
       "localizedDescription": "Ksign is a simple, powerful tool to sign IPAs for personal use.",
       "iconURL": "https://github.com/Nyasami/Ksign/blob/v1.4.1/Ksign/Resources/Assets.xcassets/AppIcon.appiconset/Ksign-default.png?raw=true",
       "tintColor": "#6495ED",
-      "size": 14.7
+      "size": 14700000
     },
     {
       "name": "Unc0ver",
@@ -30,7 +30,7 @@
       "localizedDescription": "unc0ver is a powerful jailbreak tool for iOS devices, allowing root access and tweaks. Supports iOS 11 to iOS 14.8.",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShkxq3r9D9IvsCJXK8dIxjOXYrRhN3b5nZWw&s",
       "tintColor": "#FF6347",
-      "size": 54.5
+      "size": 54500000
     },
     {
       "name": "UTM",
@@ -72,7 +72,7 @@
       "localizedDescription": "Flycast is a Dreamcast emulator for iOS that lets you play classic Dreamcast games with high compatibility and performance on your device.",
       "iconURL": "https://raw.githubusercontent.com/flyinghead/flycast/master/shell/linux/flycast.png",
       "tintColor": "#FFA500",
-      "size": 8.2
+      "size": 8200000
     },
     {
       "name": "Dolphin",
@@ -86,7 +86,7 @@
       "localizedDescription": "Dolphin is a high-performance emulator for GameCube and Wii games on iOS, offering advanced controls and graphics options.",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1uzvuRLJONXjZQ-ufy8lmlKO2GZqr52A63g&s",
       "tintColor": "#8A2BE2",
-      "size": 80.3
+      "size": 80300000
     },
     {
       "name": "PojavLauncher",
@@ -100,7 +100,7 @@
       "localizedDescription": "PojavLauncher allows you to play Minecraft Java Edition on iOS devices, providing support for mods, servers, and full game features.",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFCv3jIkvIKoURk4audJBbZJYTnbTmlsJzVg&s",
       "tintColor": "#FF1493",
-      "size": 108.2
+      "size": 108200000
     },
     {
       "name": "UTM SE",
@@ -114,7 +114,7 @@
       "localizedDescription": "UTM SE allows you to run virtual machines on iOS, supporting multiple OSes with full emulation and QEMU-based virtualization.",
       "iconURL": "https://avatars.githubusercontent.com/u/49966544?s=48&v=4",
       "tintColor": "#00CED1",
-      "size": 213.9
+      "size": 213900000
     },
     {
       "name": "Provenance",
@@ -125,7 +125,6 @@
       "versionDate": "2025-09-17",
       "versionDescription": "Latest stable release of Provenance emulator for iOS devices.",
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/3.1.0/Provenance.ipa",
-      "localizedDescription": "Provenance is a versatile emulator for iOS that supports multiple consoles including SNES, Genesis, Game Boy, and more, with customizable controls and save states.",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTpuszJKoMiZqvaRqMuwjVFlr-xuPPOrd9JQ&s",
       "tintColor": "#FFD700",
       "size": 47200000
@@ -139,7 +138,6 @@
       "versionDate": "2025-09-17",
       "versionDescription": "Latest stable release of PokeMMO for iOS devices.",
       "downloadURL": "https://pokemmo.com/download_file/10/",
-      "localizedDescription": "PokeMMO is an online Pokémon MMO game for iOS devices, allowing players to battle, trade, and explore together with full multiplayer features.",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2n-mUOqkvYSCTDXKWcAi1TBXBbMPlCldi8g&s",
       "tintColor": "#FF4500",
       "size": 60200000
@@ -153,7 +151,6 @@
       "versionDate": "2025-09-17",
       "versionDescription": "Major update to revive the project with refactored codebase and restored APIs.",
       "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_1/OldOS.ipa",
-      "localizedDescription": "OldOS brings the classic iOS interface to modern devices, letting you experience the look and feel of previous iOS versions.",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkpSAVwRr83gYwhGqSK9wRKCpiyqc4-XbKqg&s",
       "tintColor": "#4B0082",
       "size": 15800000
@@ -167,7 +164,6 @@
       "versionDate": "2025-09-17",
       "versionDescription": "Major update with new cores, improved iOS support, and enhanced features.",
       "downloadURL": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
-      "localizedDescription": "RetroArch is a powerful frontend for emulators, game engines, and media players, enabling you to run classic games on a wide range of devices through its slick graphical interface.",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gP06dHcMuUi8T6imFmdB6ob4If5fMkD2ag&s",
       "tintColor": "#7FFF00",
       "size": 187100000
