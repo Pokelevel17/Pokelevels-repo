@@ -3,40 +3,6 @@
   "identifier": "com.ksign.repo",
   "sourceURL": "https://Pokelevel17.github.io/Pokelevels-repo/apps.json",
   "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdfvYdCC0BPFY7WwOoQRDNx939y6BKw0NudA&s",
-  "categories": [
-    {
-      "name": "Emulators",
-      "apps": [
-        "com.rileytestut.Delta",
-        "com.flyinghead.Flycast",
-        "me.oatmealdome.DolphiniOS-njb-patreon-beta",
-        "org.provenance-emu.provenance",
-        "com.libretro.RetroArchiOS11"
-      ]
-    },
-    {
-      "name": "Jailbreaks",
-      "apps": [
-        "science.xnu.undecimus"
-      ]
-    },
-    {
-      "name": "Games",
-      "apps": [
-        "eu.pokemmo.client",
-        "net.kdt.pojavlauncher"
-      ]
-    },
-    {
-      "name": "Other",
-      "apps": [
-        "nya.asami.ksign",
-        "com.utmapp.UTM",
-        "com.utmapp.UTM-SE",
-        "com.zurac.OldOSSL2"
-      ]
-    }
-  ],
   "apps": [
     {
       "name": "Ksign",
