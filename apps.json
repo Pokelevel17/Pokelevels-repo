@@ -29,7 +29,7 @@
       "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
       "localizedDescription": "unc0ver is a powerful jailbreak tool for iOS devices, allowing root access and tweaks. Supports iOS 11 to iOS 14.8.",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShkxq3r9D9IvsCJXK8dIxjOXYrRhN3b5nZWw&s",
-      "tintColor": "#FF6347",
+      "tintColor": "#dcdfe0",
       "size": 54500000
     },
     {
@@ -57,7 +57,7 @@
       "downloadURL": "https://github.com/rileytestut/Delta/releases/download/v1.6/Delta_1_6.ipa",
       "localizedDescription": "Delta is a multi-platform emulator for iOS that lets you play Game Boy, Game Boy Advance, Nintendo DS, and Nintendo 64 games on your device.",
       "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.rileytestut.Delta.Beta.png",
-      "tintColor": "#32CD32",
+      "tintColor": "#480da6",
       "size": 47000000
     },
     {
@@ -71,7 +71,7 @@
       "downloadURL": "https://archive.org/download/flycast-2.5_20250607_2043/Flycast-2.5.ipa",
       "localizedDescription": "Flycast is a Dreamcast emulator for iOS that lets you play classic Dreamcast games with high compatibility and performance on your device.",
       "iconURL": "https://raw.githubusercontent.com/flyinghead/flycast/master/shell/linux/flycast.png",
-      "tintColor": "#FFA500",
+      "tintColor": "#571eb3",
       "size": 8200000
     },
     {
@@ -85,7 +85,7 @@
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
       "localizedDescription": "Dolphin is a high-performance emulator for GameCube and Wii games on iOS, offering advanced controls and graphics options.",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1uzvuRLJONXjZQ-ufy8lmlKO2GZqr52A63g&s",
-      "tintColor": "#8A2BE2",
+      "tintColor": "#3554ab",
       "size": 80300000
     },
     {
@@ -99,7 +99,7 @@
       "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
       "localizedDescription": "PojavLauncher allows you to play Minecraft Java Edition on iOS devices, providing support for mods, servers, and full game features.",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFCv3jIkvIKoURk4audJBbZJYTnbTmlsJzVg&s",
-      "tintColor": "#FF1493",
+      "tintColor": "#663317",
       "size": 108200000
     },
     {
@@ -113,7 +113,7 @@
       "downloadURL": "https://github.com/utmapp/UTM/releases/latest/download/UTM-SE.ipa",
       "localizedDescription": "UTM SE allows you to run virtual machines on iOS, supporting multiple OSes with full emulation and QEMU-based virtualization.",
       "iconURL": "https://avatars.githubusercontent.com/u/49966544?s=48&v=4",
-      "tintColor": "#00CED1",
+      "tintColor": "#1a2cc2",
       "size": 213900000
     },
     {
@@ -127,7 +127,7 @@
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/3.1.0/Provenance.ipa",
       "localizedDescription": "Provenance is a versatile emulator for iOS that supports multiple consoles including SNES, Genesis, Game Boy, and more, with customizable controls and save states.",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTpuszJKoMiZqvaRqMuwjVFlr-xuPPOrd9JQ&s",
-      "tintColor": "#FFD700",
+      "tintColor": "#a5aab0",
       "size": 47200000
     },
     {
@@ -141,7 +141,7 @@
       "downloadURL": "https://pokemmo.com/download_file/10/",
       "localizedDescription": "PokeMMO is an online Pokémon MMO game for iOS devices, allowing players to battle, trade, and explore together with full multiplayer features.",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2n-mUOqkvYSCTDXKWcAi1TBXBbMPlCldi8g&s",
-      "tintColor": "#FF4500",
+      "tintColor": "#151617",
       "size": 60200000
     },
     {
@@ -155,7 +155,7 @@
       "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_1/OldOS.ipa",
       "localizedDescription": "OldOS brings the classic iOS interface to modern devices, letting you experience the look and feel of previous iOS versions.",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkpSAVwRr83gYwhGqSK9wRKCpiyqc4-XbKqg&s",
-      "tintColor": "#4B0082",
+      "tintColor": "#434547",
       "size": 15800000
     },
     {
@@ -169,7 +169,7 @@
       "downloadURL": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
       "localizedDescription": "RetroArch is a powerful frontend for emulators, game engines, and media players, enabling you to run classic games on a wide range of devices through its slick graphical interface.",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gP06dHcMuUi8T6imFmdB6ob4If5fMkD2ag&s",
-      "tintColor": "#7FFF00",
+      "tintColor": "#a7a9ab",
       "size": 187100000
     }
   ]
